@@ -1,0 +1,8 @@
+## Interface: 90005
+## Title: |cFFFFFF00<Sounds of Raiding Guild>|r |cff69ccf0by Yap|r
+## Notes: Shamelessly templated from SharedMedia_Causese
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+Soundpaths.lua 
