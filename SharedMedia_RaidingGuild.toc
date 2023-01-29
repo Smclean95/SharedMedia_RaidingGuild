@@ -1,4 +1,4 @@
-## Interface: 90105
+## Interface: 100005
 ## Title: |cFFFFFF00<Sounds of Raiding Guild>|r |cff69ccf0by Yap|r
 ## Notes: Shamelessly templated from SharedMedia_Causese
 
